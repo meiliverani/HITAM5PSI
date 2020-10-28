@@ -1,13 +1,13 @@
 package com.example.sr_5psi_hitam;
 
 public class konfigurasi {
-    public static final String URL_ADD= "http://192.168.1.8/Android/kursus/tambahSiswa.php";
-    public static final String URL_GET_ALL = "http://192.168.1.8/Android/kursus/tampilSemuaSiswa.php";
-    public static final String URL_GET_STUD = "http://192.168.1.8/Android/kursus/tampilSiswa.php?id=";
-    public static final String URL_UPDATE_STUD = "http://192.168.1.8/Android/kursus/updateSiswa.php";
-    public static final String URL_DELETE_STUD = "http://192.168.1.8/Android/kursus/hapusSiswa.php?id=";
-    public static final String URL_GET_SCHOOL = "http://192.168.1.8/Android/kursus/getSchools.php";
-    public static final String URL_GET_PACKAGE = "http://192.168.1.8/Android/kursus/getPackages.php";
+    public static final String URL_ADD= "https://5psihitamsr.000webhostapp.com//tambahSiswa.php";
+    public static final String URL_GET_ALL = "https://5psihitamsr.000webhostapp.com//tampilSemuaSiswa.php";
+    public static final String URL_GET_STUD = "https://5psihitamsr.000webhostapp.com//tampilSiswa.php?id=";
+    public static final String URL_UPDATE_STUD = "https://5psihitamsr.000webhostapp.com//updateSiswa.php";
+    public static final String URL_DELETE_STUD = "https://5psihitamsr.000webhostapp.com//hapusSiswa.php?id=";
+    public static final String URL_GET_SCHOOL = "https://5psihitamsr.000webhostapp.com//getSchools.php";
+    public static final String URL_GET_PACKAGE = "https://5psihitamsr.000webhostapp.com//getPackages.php";
 
     //Dibawah ini merupakan Kunci yang akan digunakan untuk mengirim permintaan ke Skrip PHP
     public static final String KEY_STUDENT_ID = "id";
