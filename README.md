@@ -1,5 +1,6 @@
 # HITAM5PSI
 Java Based Android Application - UTS Sistem Rekayasa 5PSI - Kelompok Hitam
+![alt text](https://5psihitamsr.000webhostapp.com/logo.png)
 1. Licen 1831076
 2. Meiliverani Erline 1831126
 3. Melvy Devalia 1831158
@@ -36,5 +37,3 @@ All used PHP files is specifically mention below:
 7. https://5psihitamsr.000webhostapp.com/updateSiswa.php // to update record of tb_siswa
 8. https://5psihitamsr.000webhostapp.com/hapusSiswa.php // to delete record of tb_siswa
 
-# INSTITUTIONAL LOGO OF HITAM
-![alt text](https://5psihitamsr.000webhostapp.com/logo.png)
