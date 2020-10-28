@@ -12,6 +12,7 @@ Java Based Android Application - UTS Sistem Rekayasa 5PSI - Kelompok Hitam
 This application is using 1 database named "db_android" with 3 tables within which are "tb_siswa", "tb_paket", and "tb_sekolah".
 Each table has 1 primary key which is ID. While "tb_siswa" has 2 foreign key which come from each 2 other tables.
 The diagram of the db's schema is drawn as below:
+
 ![alt text](https://5psihitamsr.000webhostapp.com/db-schema.png)
 
 
